@@ -24,12 +24,19 @@
 ### Step2. 로컬 레포지토리와 연결하기
 
 - Github에서 원격 레포지토리 url을 복사한다.
-    <img src = "./img/image1.png">
+    <img src = "./img/image1.png", height = "300px">
 
 - 프로젝트를 생성할 상위 폴더에서 `open Git Bash here` 을 클릭해 **git bash**를 열어준다. 
-    <img src = "./img/image2.png">
+    <img src = "./img/image2.png", height = "300px">
 - git bash에서 repository를 `clone`한다.
-    <img src = "./img/image3.png">
+    <img src = "./img/image3.png", height = "300px">
 
 - clone한 repository를 **Visual Studio Code**로 열어준다.
-    <img src = "./img/image4.png">
+    <img src = "./img/image4.png", height = "300px">
+
+### Step3. Sourcetree와 연결하기
+- `Sourcetree`를 실행한다.
+    - 파일 -> 열기 -> 폴더선택
+        <img src = "./img/image5.png", height = "300px">
+        <img src = "./img/image6.png", height = "300px">
+- 쉽게 프로젝트와 브랜치를 관리할 수 있게 된다.
