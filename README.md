@@ -65,9 +65,19 @@
         <img src = "./img/image8.png">
 
 - Sourcetree -> 브랜치 -> 브랜치 생성
+    - 브랜치의 이름은 **작업자 이름**으로 한다.
     <img src = "./img/image7.png">
 
 - 작업한다.
 
-- 다음과 같이 main이 변경되었고, branch도 내가 작업물을 만들어 변경되었다.
-    <img src = "./img/image9.png">
+- 해당 브랜치에서 작업한 내용을 add, commit, push한다.
+    - commit할 때에는 어떤 작업을 수행했는지 반드시 메세지를 작성한다.
+
+- 이후 Github에서 팀원들이 내용을 확인하고, 댓글도 달고 문제되는 점이 없는지 확인한다.
+
+- 댓글들을 확인 후 자신의 작업물을 compare & pull request 해준다.
+    - 반드시 **`base: main <- compare: 브랜치명`** 으로 되어있는 지 확인하고, `create pull request`를 해준다.
+    <img src = "./img/image10.png">
+
+- 관리자가 확인 후 `merge`를 최종 수락하면 합치는 것이 완료된다.
+    <img src = "./img/image11.png">
