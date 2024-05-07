@@ -22,9 +22,14 @@
 - 관리자가 레포지토리 상단에서 `pin`을 클릭하면 즐겨찾기에 추가되고, 팀원들의 프로필 메인에서도 볼 수 있다.
 
 ### Step2. 로컬 레포지토리와 연결하기
-- Github에서 원격 레포지토리 url을 복사한다.
-- 프로젝트를 생성할 상위 폴더에서 `우클릭 - open Git Bash here` 을 클릭한다.
-<img src = "./img/image1.png">
 
-- 로컬 레포지토리를 생성한다.
-- 우클릭 -> `open Git Bash here` -> 명령어 `git clone 레포주소` 를 입력한다.
+- Github에서 원격 레포지토리 url을 복사한다.
+    <img src = "./img/image1.png">
+
+- 프로젝트를 생성할 상위 폴더에서 `open Git Bash here` 을 클릭해 **git bash**를 열어준다. 
+    <img src = "./img/image2.png">
+- git bash에서 repository를 `clone`한다.
+    <img src = "./img/image3.png">
+
+- clone한 repository를 **Visual Studio Code**로 열어준다.
+    <img src = "./img/image4.png">
