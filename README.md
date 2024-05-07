@@ -23,8 +23,8 @@
 
 ### Step2. 로컬 레포지토리와 연결하기
 - Github에서 원격 레포지토리 url을 복사한다.
-![alt text](image-1.png)
+- 프로젝트를 생성할 상위 폴더에서 `우클릭 - open Git Bash here` 을 클릭한다.
+<img src = "./img/image1.png">
 
 - 로컬 레포지토리를 생성한다.
 - 우클릭 -> `open Git Bash here` -> 명령어 `git clone 레포주소` 를 입력한다.
-![alt text](image.png)
