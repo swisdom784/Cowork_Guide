@@ -15,7 +15,7 @@
 - `Git` 설치하고, `Git bash`를 연다
 - Git에게 나의 이메일 주소와 유저명을 알려주자
 - 아래의 명령어대로 Github를 가입할 때 입력한 이메일 주소와 유저명을 입력해준다.
-<img src = "./img/image12.png">
+    <img src = "./img/image12.png">
 
 
 ### Step1. 팀 레포지토리에 팀원 초대하기
